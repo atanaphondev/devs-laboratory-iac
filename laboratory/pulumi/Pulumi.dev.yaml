@@ -1,0 +1,3 @@
+config:
+  gcp:project: devs-laboratory
+  pulumi:template: gcp-go
